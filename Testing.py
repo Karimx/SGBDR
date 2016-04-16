@@ -1,1 +1,1 @@
-Learning how to make commit github
+strr = "Learning how to make commit github"
